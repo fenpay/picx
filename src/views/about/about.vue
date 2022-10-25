@@ -45,15 +45,7 @@
     </div>
 
     <div class="help-info-item red-text">
-      图片上传缓慢或加载不出来等情况，可借助&nbsp;
-      <el-link
-        style="font-size: 16rem"
-        type="primary"
-        href="https://github.com/Alvin9999/new-pac/wiki"
-        target="_blank"
-        >VPN 工具
-      </el-link>
-      &nbsp;。
+      图片上传缓慢或加载不出来等情况，可借助科学工具
     </div>
 
     <div class="help-info-item">
